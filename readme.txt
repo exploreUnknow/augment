@@ -1,7 +1,6 @@
 Experiment Setup:
 
     Environment Installation: The environment setup file is requirements.txt. Run the command "pip install -r requirements" to install the required packages.
-    Launch ChatGPT Service: Firstly, Django needs to be installed on your computer. Start Django using the command "python manage.py runserver 0.0.0.0:8000."
     Run the Program: The main program is named "main.py" and it takes "test_data_CVE.data" as input.
     Output Results: The output results are stored in "experimental_result.xlsx."
 
